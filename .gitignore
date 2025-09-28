@@ -1,0 +1,45 @@
+# =============== #
+# Unity Generated #
+# =============== #
+
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# OS Generated
+.DS_Store
+Thumbs.db
+
+# Visual Studio / Rider
+.vs/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.suo
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Build artifacts
+*.apk
+*.aab
+*.exe
+*.app
+*.ipa
+
+# Crash reports
+sysinfo.txt
+
+# =================== #
+# Keep These in Git   #
+# =================== #
+# Assets, ProjectSettings, Packages are required
+# Do NOT ignore *.meta files

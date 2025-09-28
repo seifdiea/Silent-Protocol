@@ -1,0 +1,11 @@
+Model Information:
+* title:	1911 Silenced
+* source:	https://sketchfab.com/3d-models/1911-silenced-82863ebd16f64782b4eefd9500433bfa
+* author:	JoTiNhaa5 (https://sketchfab.com/JoTiNhaa5)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "1911 Silenced" (https://sketchfab.com/3d-models/1911-silenced-82863ebd16f64782b4eefd9500433bfa) by JoTiNhaa5 (https://sketchfab.com/JoTiNhaa5) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

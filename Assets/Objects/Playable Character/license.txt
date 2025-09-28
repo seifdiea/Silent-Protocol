@@ -1,0 +1,11 @@
+Model Information:
+* title:	Smooth Hitman Black PUBG MOBILE
+* source:	https://sketchfab.com/3d-models/smooth-hitman-black-pubg-mobile-cc7c3963af034245a74b20163d08d4fe
+* author:	mesu (https://sketchfab.com/mesu3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Smooth Hitman Black PUBG MOBILE" (https://sketchfab.com/3d-models/smooth-hitman-black-pubg-mobile-cc7c3963af034245a74b20163d08d4fe) by mesu (https://sketchfab.com/mesu3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

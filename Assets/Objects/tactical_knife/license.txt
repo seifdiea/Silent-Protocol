@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tactical knife
+* source:	https://sketchfab.com/3d-models/tactical-knife-dbad940f2f284db18065cee66d3bcb12
+* author:	TristanGybels (https://sketchfab.com/TristanGybels)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tactical knife" (https://sketchfab.com/3d-models/tactical-knife-dbad940f2f284db18065cee66d3bcb12) by TristanGybels (https://sketchfab.com/TristanGybels) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

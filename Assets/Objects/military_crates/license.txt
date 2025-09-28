@@ -1,0 +1,11 @@
+Model Information:
+* title:	Military Crates
+* source:	https://sketchfab.com/3d-models/military-crates-4c9619e4336f4cbe9390d4c679e04fc2
+* author:	LuddePudde (https://sketchfab.com/ludde5000)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Military Crates" (https://sketchfab.com/3d-models/military-crates-4c9619e4336f4cbe9390d4c679e04fc2) by LuddePudde (https://sketchfab.com/ludde5000) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
