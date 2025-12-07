@@ -37,8 +37,10 @@ public class InteractRaycaster : MonoBehaviour
                 ShowPrompt("Press E to pick up keycard");
 
                 if (Input.GetKeyDown(KeyCode.E))
+                {
                     keycard.Pickup();
-
+                    GameManager.instance.hasKeycard = true;
+                }
                 return;
             }
 
@@ -49,9 +51,10 @@ public class InteractRaycaster : MonoBehaviour
                 string msg = panel.GetPrompt(inventory);
                 ShowPrompt(msg);
 
-                if (Input.GetKeyDown(KeyCode.E))
+                if (Input.GetKeyDown(KeyCode.E)) { 
                     panel.Use(inventory);
-
+                    
+                }
                 return;
             }
         }

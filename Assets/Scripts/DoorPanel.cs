@@ -23,6 +23,8 @@ public class DoorPanel : MonoBehaviour
             if (beepOk) beepOk.Play();
             if (door) door.ToggleDoor();
             if (alarm) alarm.Trigger();  // <-- add this line
+            GameManager.instance.doorUnlocked = true;
+
         }
 
         else
